@@ -7,5 +7,11 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjy8086)](https://github.com/anuraghazra/github-readme-stats)[![commitcombo](http://commitcombo.com/get?user=mjy8086&theme=Rainbow-mini)](https://github.com/devxb/CommitCombo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjy8086)](https://github.com/anuraghazra/github-readme-stats)<p align="right">
+  <a href="https://github.com/devxb/CommitCombo">
+    <img src="http://commitcombo.com/get?user=Devxb&theme=Rainbow-mini" width = "300" height = "auto"/>
+  </a>
+</p>
+  
+  [![commitcombo](http://commitcombo.com/get?user=mjy8086&theme=Rainbow-mini)](https://github.com/devxb/CommitCombo)
 </div>
